@@ -4,9 +4,9 @@ class animal{
     return "shaun";
     }
     public function get_legs(){
-        return"4";
+        return "4";
     }
     public function get_blood(){
-        return"no";
+        return "no";
     }
 }
