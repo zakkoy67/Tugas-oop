@@ -4,19 +4,19 @@ class frog extends animal
 {
     public function getfrogname()
     {
-        echo"<br/><br/>name : buduk ";
+        return "buduk ";
     }
     public function getfroglegs()
     {
-        echo"<br/>legs : 4 ";
+        return "4 ";
     }
     public function getfrogblood()
     {
-        echo"<br/>cold blooded : no ";
+        return "no ";
     }
     public function getfrogjump()
     {
-        echo"<br/>jump : wakakak ";
+        return "Hop Hop ";
     }
 }
 ?>
