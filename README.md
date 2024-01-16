@@ -1,3 +1,2 @@
-![image](https://github.com/zakkoy67/Tugas-oop/assets/118705766/9ea53cb1-3baa-4540-80fe-4784cbebca53)# Tugas-oop
+![image](https://github.com/zakkoy67/Tugas-oop/assets/118705766/445a922c-2919-491f-b5dc-434ed326d747)[Uploading image.png…]()
 
-[Uploading image.png…]()
